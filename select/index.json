@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "My Soul,Your Beats!",
+  "base_artist": "Lia - Topic",
+  "createdAt": "2025-12-30T12:04:04.662873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/01_My_Soul,_Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/02_My_Soul,_Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Soul,Your Beats!〜Classic〜 Instrumental",
+      "artist": "TAMUSIC",
+      "has_synced": false,
+      "path": "select/03_My_Soul,Your_Beats!〜Classic〜_Instrumental_TAMUSIC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/04_My_Soul,_Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/05_My_Soul,_Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Soul,Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/06_My_Soul,Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/07_My_Soul,_Your_Beats!_Lia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/08_My_Soul,_Your_Beats!_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats! (Angel Beats)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_My_Soul,_Your_Beats!_(Angel_Beats)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats! -Gidemo ver.-",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/10_My_Soul,_Your_Beats!_-Gidemo_ver.-_LISA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Soul,Your Beats!.Classic. Instrumental",
+      "artist": "TAMUSIC",
+      "has_synced": false,
+      "path": "select/11_My_Soul,Your_Beats!.Classic._Instrumental_TAMUSIC.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats!(TANUKI Remix)",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/12_My_Soul,_Your_Beats!(TANUKI_Remix)_Lia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Soul, Your Beats! (ピアノ×バイオリン生演奏Remix)",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/13_My_Soul,_Your_Beats!_(ピアノ×バイオリン生演奏Remix)_Lia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Soul,your Beats!",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/14_My_Soul,your_Beats!_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Soul, Your Beats!",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/pl_01_My_Soul,_Your_Beats!_Lia.txt"
+    }
+  ]
+}
